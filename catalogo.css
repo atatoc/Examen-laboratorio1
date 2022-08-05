@@ -1,0 +1,300 @@
+.cajapadre{
+    background-color:#eee;
+    margin: auto;
+    width: 30rem;
+    height: 70rem;
+}
+
+.opcion1{
+    display: flex;
+    font-size: 10px;
+}
+
+.imagen1{
+    width: 10rem;
+    height: 10rem;
+    margin: 15px;
+    
+}
+
+.p1{
+    color: #828282;
+    margin: 4%;
+    font-family: arial;
+}
+
+.label1{
+    font-family: arial;
+    color: white;
+    width: 5rem;
+    height: 1.3rem;
+    font-size: 16px;
+    text-align: center;
+
+    
+    background-color: #828282;
+ 
+}
+
+.imagenx{
+    width: 2rem;
+    height: 2rem;
+    background-color: #eee;
+    margin: 15px;
+ 
+}
+
+.comentario1{
+  font-family: arial;
+    margin-left: 5rem;
+    font-size: 1rem;
+    color: #828282;
+ 
+}
+
+.opcion2{
+    display: flex;
+    font-size: 10px;
+}
+
+.imagen2{
+    width: 10rem;
+    height: 10rem;
+    margin: 15px;
+    
+}
+
+.p2{
+    color: #828282;
+    margin: 4%;
+    font-family: arial;
+}
+
+.label2{
+    font-family: arial;
+    color: white;
+    width: 5rem;
+    height: 1.3rem;
+    font-size: 16px;
+    text-align: center;
+
+    
+    background-color: #828282;
+ 
+}
+
+.imagenz{
+    width: 2rem;
+    height: 2rem;
+    background-color: #eee;
+    margin: 15px;
+ 
+}
+
+.comentario2{
+  font-family: arial;
+    margin-left: 5rem;
+    font-size: 1rem;
+    color: #828282;
+ 
+}
+
+.opcion3{
+    display: flex;
+    font-size: 10px;
+}
+
+.imagen3{
+    width: 10rem;
+    height: 10rem;
+    margin: 15px;
+    
+}
+
+.p3{
+    color: #828282;
+    margin: 4%;
+    font-family: arial;
+}
+
+.label3{
+    font-family: arial;
+    color: white;
+    width: 5rem;
+    height: 1.3rem;
+    font-size: 16px;
+    text-align: center;
+
+    
+    background-color: #828282;
+ 
+}
+
+.imageny{
+    width: 2rem;
+    height: 2rem;
+    background-color: #eee;
+    margin: 15px;
+ 
+}
+
+.comentario3{
+  font-family: arial;
+    margin-left: 5rem;
+    font-size: 1rem;
+    color: #828282;
+ 
+}
+
+.opcion4{
+    display: flex;
+    font-size: 10px;
+}
+
+.imagen4{
+    width: 10rem;
+    height: 10rem;
+    margin: 15px;
+    
+}
+
+.p4{
+    color: #828282;
+    margin: 4%;
+    font-family: arial;
+}
+
+.label4{
+    font-family: arial;
+    color: white;
+    width: 5rem;
+    height: 1.3rem;
+    font-size: 16px;
+    text-align: center;
+
+    
+    background-color: #828282;
+ 
+}
+
+.imagent{
+    width: 2rem;
+    height: 2rem;
+    background-color: #eee;
+    margin: 15px;
+ 
+}
+
+.comentario4{
+  font-family: arial;
+    margin-left: 5rem;
+    font-size: 1rem;
+    color: #828282;
+ 
+}
+
+.bottoncat1{
+  text-decoration: none;
+  color: #52b2bf;
+   
+  }
+
+.bottoncat1:hover{
+  color: black;
+     
+}
+
+.opcion5{
+    display: flex;
+    font-size: 10px;
+}
+
+.imagen5{
+    width: 10rem;
+    height: 10rem;
+    margin: 15px;
+    
+}
+
+.p5{
+    color: #828282;
+    margin: 4%;
+    font-family: arial;
+}
+
+.label5{
+    font-family: arial;
+    color: white;
+    width: 5rem;
+    height: 1.3rem;
+    font-size: 16px;
+    text-align: center;
+
+    
+    background-color: #828282;
+ 
+}
+
+.imageno{
+    width: 2rem;
+    height: 2rem;
+    background-color: #eee;
+    margin: 15px;
+ 
+}
+
+.comentario5{
+  font-family: arial;
+    margin-left: 5rem;
+    font-size: 1rem;
+    color: #828282;
+ 
+}
+
+.bottoncat1{
+  text-decoration: none;
+  color: #52b2bf;
+   
+  }
+
+.bottoncat1:hover{
+  color: black;
+     
+}
+
+.menu{
+    width: 31.5%;
+    height: 10%;
+    background-color:white;
+
+    position: fixed;
+    bottom:0px
+  }
+
+  .casa{
+    margin: 10px;
+    width: 10%;
+    height: 50%;
+    display: flexbox;
+  }
+
+  .lupa{
+    margin: 10px;
+    width: 10%;
+    height: 50%;
+    display: flexbox;
+  }
+  
+  .mensajes{
+    margin: 10px;
+    width: 10%;
+    height: 50%;
+    display: flexbox;
+  }
+
+  .notificacion{
+    margin: 10px;
+    display: flexbox;
+    width: 10%;
+    height: 50%;
+  }

@@ -1,0 +1,43 @@
+.botonlog{
+  display: block;
+  color: black;
+  width: 51.7%;
+  height: 40px;
+  background-color: #ccc;
+  font-size: 1.3rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-decoration: none;
+
+   margin: auto;
+
+}
+
+.login img{
+   width: 150px;
+   display: block;
+   margin: auto;
+ }
+
+.username input{
+   display: block;
+   margin: auto;
+   width: 50%;
+   height: 40px;
+   text-decoration: none;
+}
+
+.botonlog:hover{
+    background-color: #828282;
+ }
+
+ .caja{
+    height: 50rem;
+        width: 30rem;
+        background-color: #eee;
+        margin: auto;
+     }
+ 
+
+
